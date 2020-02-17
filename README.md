@@ -26,3 +26,15 @@ Constraints:
 * The edge selection is biased towards exploitation (i.e. favoring the probability of selecting the shortest edges with a large amount of pheromone).
 * Ants change the pheromone level of the edges they are selecting by applying a local pheromone updating rule 
 * The best ant is allowed to update the trails by applying a modified global pheromone updating rule.
+
+## Content
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/BOSCH_PS.pdf">Probelem Discription</a>
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/Input Data.xlsx">Input Data(i.e. Locations)</a>
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/a.xlsx">Processed data</a>: Distance and Time matrix
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/BOSCH_MP.py">Mathematical Model</a>
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/AntColonyMethod.py">Ant Colony Method</a>
+* <a href="https://github.com/adityauser/BOSCH-Route-Optimization/blob/master/Presentation.pptx">Presentation</a>
+
+
+
+
